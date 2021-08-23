@@ -2,7 +2,8 @@
 Note Taker
 
 [[Repository Link](https://github.com/ElusiveSkies/note_taker)]
-[[Deployed Note Taker](#))]
+
+[[Deployed Note Taker](https://fierce-hollows-30732.herokuapp.com/))]
 
 ## Table of Contents
 
@@ -11,11 +12,6 @@ Note Taker
 - [License](#License)
 - [Questions](#Questions)
 
-## Built With
-*HTML
-*CSS
-*JavaScript
-*Express
 
 ## Description
 
@@ -32,7 +28,7 @@ Clicking the Note Taker icon will allow user to return the landing page.
 ## Usage
 
 Video of Usage
-![Video of Usage](./Develop/public/assets/NoteTaker.gif)
+![Video of Usage](./public/assets/NoteTaker.gif)
 
 ## License
 
