@@ -32,7 +32,7 @@ Clicking the Note Taker icon will allow user to return the landing page.
 ## Usage
 
 Video of Usage
-![Video of Usage](./Develop/public/assets/NoteTaker.gif)
+![Video of Usage](./public/assets/NoteTaker.gif)
 
 ## License
 
